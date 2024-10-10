@@ -1,0 +1,10 @@
+{
+  "instrumentos": {
+    "Xilofone": 150000,
+    "Flauta Doce": 200000,
+    "Tambor": 120000,
+    "Piano": 180000,
+    "Guitarra": 250000,
+    "Violino": 100000
+  }
+}
